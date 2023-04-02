@@ -1,0 +1,2 @@
+02/04/2023	14:25:57	e4c758cc-8a39-43a4-970a-ad7dff98e630	Log event emitted!
+02/04/2023	14:26:05	b7e52a4a-24b3-4bf5-98af-9c14ecb07a80	Log event emitted!
