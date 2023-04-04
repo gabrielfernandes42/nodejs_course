@@ -1,0 +1,15 @@
+03/04/2023	19:48:06	3049f208-4736-46f3-8872-00b10531a0cc	/new-page.html	GET
+03/04/2023	19:48:06	2560d444-0f2e-4012-9c12-66cb29509f98	/css/style.css	GET
+03/04/2023	19:48:06	ec4cf851-a884-40a4-a8f7-519a39be99d4	/img/img1.png	GET
+03/04/2023	19:48:06	2274fdf5-baa8-4d1b-a8d2-4c56432f24dd	/favicon.ico	GET
+03/04/2023	19:48:58	3bef7a01-61fe-4608-af93-b09d02fba06c	/new-page.html	GET
+03/04/2023	19:49:20	7ba750c3-8be8-4b67-adb0-e23266e5a973	/new-page.html	GET
+03/04/2023	19:49:20	77e0b1a6-3188-4a2c-8141-aa4ce25c6cb2	/css/style.css	GET
+03/04/2023	19:49:20	ace88c86-5ed8-408a-b1c9-d858ecb302a4	/img/img1.png	GET
+03/04/2023	19:49:41	2492fc8b-2cef-4213-bb0f-554504f85243	/new-page.html	GET
+<br>03/04/2023	19:49:41	70a85c37-77fe-4782-9fcd-7e6f554ff95f	/css/style.css	GET
+<br>03/04/2023	19:49:41	3b3d95c9-d1b8-4929-8c70-f73226c70e38	/img/img1.png	GET
+<br>03/04/2023	19:49:56	f87131c3-3be0-437e-96d5-cd706ca7d9ef	/new-page.html	GET
+<hr>03/04/2023	19:49:56	a5d1118f-6818-465b-b43e-832b0c0d82ae	/css/style.css	GET
+<hr>03/04/2023	19:49:56	4cf395c4-03d9-42bd-84b3-bde157bd6675	/img/img1.png	GET
+<hr>
