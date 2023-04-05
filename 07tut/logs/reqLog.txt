@@ -1,15 +1,54 @@
-03/04/2023	19:48:06	3049f208-4736-46f3-8872-00b10531a0cc	/new-page.html	GET
-03/04/2023	19:48:06	2560d444-0f2e-4012-9c12-66cb29509f98	/css/style.css	GET
-03/04/2023	19:48:06	ec4cf851-a884-40a4-a8f7-519a39be99d4	/img/img1.png	GET
-03/04/2023	19:48:06	2274fdf5-baa8-4d1b-a8d2-4c56432f24dd	/favicon.ico	GET
-03/04/2023	19:48:58	3bef7a01-61fe-4608-af93-b09d02fba06c	/new-page.html	GET
-03/04/2023	19:49:20	7ba750c3-8be8-4b67-adb0-e23266e5a973	/new-page.html	GET
-03/04/2023	19:49:20	77e0b1a6-3188-4a2c-8141-aa4ce25c6cb2	/css/style.css	GET
-03/04/2023	19:49:20	ace88c86-5ed8-408a-b1c9-d858ecb302a4	/img/img1.png	GET
-03/04/2023	19:49:41	2492fc8b-2cef-4213-bb0f-554504f85243	/new-page.html	GET
-<br>03/04/2023	19:49:41	70a85c37-77fe-4782-9fcd-7e6f554ff95f	/css/style.css	GET
-<br>03/04/2023	19:49:41	3b3d95c9-d1b8-4929-8c70-f73226c70e38	/img/img1.png	GET
-<br>03/04/2023	19:49:56	f87131c3-3be0-437e-96d5-cd706ca7d9ef	/new-page.html	GET
-<hr>03/04/2023	19:49:56	a5d1118f-6818-465b-b43e-832b0c0d82ae	/css/style.css	GET
-<hr>03/04/2023	19:49:56	4cf395c4-03d9-42bd-84b3-bde157bd6675	/img/img1.png	GET
-<hr>
+05/04/2023	19:36:37	d34367f4-fd88-48ce-ab14-66a1bf146895	GET 	undefined 	/css/style.css
+05/04/2023	19:36:47	05782bd4-c11d-4888-bb3d-e42ff659b207	GET 	undefined 	/
+05/04/2023	19:36:47	95aaf5f5-99cb-4e50-9d45-80c766af7ac2	GET 	undefined 	/css/style.css
+05/04/2023	19:40:32	b5ae9ad2-47d9-452e-abb4-2fd6e8d599fb	GET 	undefined 	/
+05/04/2023	19:40:32	a591ffb9-ece7-448d-b09e-c4140f8a3a6b	GET 	undefined 	/css/style.css
+05/04/2023	19:42:18	4950a30c-c339-4fc6-b5a6-4a7e83c72822	OPTIONS 	https://www.google.com.br 	/
+05/04/2023	19:42:18	31bc0867-0689-4140-abe4-1355f3fc860f	GET 	https://www.google.com.br 	/
+05/04/2023	19:55:37	f8d05f75-500e-44a1-947b-439866acc08c	GET 	undefined 	/
+05/04/2023	19:55:37	744069b4-3058-4ed7-8be5-a97c94b973e2	GET 	undefined 	/css/style.css
+05/04/2023	19:55:53	08a55631-f5c3-4c46-b82d-6746446e30b8	OPTIONS 	https://www.google.com 	/
+05/04/2023	19:55:53	5a94f8ad-72ce-4135-a3e6-435fb49ae873	GET 	https://www.google.com 	/
+05/04/2023	19:56:49	83e4a491-c4be-48df-b5d2-a0f561176b60	OPTIONS 	https://www.google.com 	/
+05/04/2023	19:56:49	6296fb22-caaf-4305-a662-000d04c92008	GET 	https://www.google.com 	/
+05/04/2023	19:57:23	18676b13-7848-4f02-9fc5-14c9a49f1c2d	OPTIONS 	https://www.google.com 	/
+05/04/2023	19:57:23	81cfc312-af3e-4e36-9701-8ec2d743cda1	GET 	https://www.google.com 	/
+05/04/2023	19:57:48	80a004ca-8e37-4324-854e-4d793afc3b36	OPTIONS 	https://www.google.com 	/
+05/04/2023	19:57:48	10e88fa5-5589-48c1-bc06-b0e7d0aa8d5f	GET 	https://www.google.com 	/
+05/04/2023	19:57:58	e4be27cc-de2c-473d-8a0b-b1accb61782a	OPTIONS 	https://www.google.com 	/
+05/04/2023	19:57:58	cb73ab16-80fb-46e5-896d-c27e5776d12e	GET 	https://www.google.com 	/
+05/04/2023	19:59:09	910232ec-67a7-484d-bd4f-61575715040c	GET 	https://www.youtube.com 	/
+05/04/2023	19:59:26	55c6a227-9a93-42f3-aaba-65047afa6c7c	GET 	https://www.youtube.com 	/
+05/04/2023	19:59:44	944692df-f59b-4b43-a4dc-afcaf2ba214d	GET 	https://www.youtube.com 	/
+05/04/2023	20:00:15	158ea1db-103b-4bfa-a003-61248e732082	OPTIONS 	https://www.amazon.com.br 	/
+05/04/2023	20:00:15	b1865040-4a16-44df-9bc9-fbae0f5652e4	GET 	https://www.amazon.com.br 	/
+05/04/2023	20:00:29	3d2be528-3716-4922-8f65-78692f135f73	OPTIONS 	https://www.amazon.com.br 	/
+05/04/2023	20:00:29	92e5f77f-b171-46b9-a02e-f6603ea83861	GET 	https://www.amazon.com.br 	/
+05/04/2023	20:00:44	f6883a00-c6ab-4e31-bc30-26d55897ccbd	OPTIONS 	https://www.amazon.com.br 	/
+05/04/2023	20:00:44	3f6deee7-6604-4da2-b607-9411cb43f019	GET 	https://www.amazon.com.br 	/
+05/04/2023	20:00:46	aa535c4d-3b17-4666-a952-c085840fbad4	GET 	https://www.amazon.com.br 	/
+05/04/2023	20:00:49	9c53053b-ae92-4e95-af58-5e8d12210e41	GET 	https://www.amazon.com.br 	/
+05/04/2023	20:07:51	5c7715dd-ce00-48b2-8233-0560f9adef96	OPTIONS 	https://www.google.com 	/
+05/04/2023	20:07:51	2e1d9c61-ceb8-48f6-b100-86d78c7024d4	GET 	https://www.google.com 	/
+05/04/2023	20:08:09	5661ea2e-51c8-455d-965a-d72013cb8461	OPTIONS 	https://www.google.com 	/
+05/04/2023	20:08:09	c2da27e1-5bda-46ae-9442-200f10671d2a	GET 	https://www.google.com 	/
+05/04/2023	20:08:12	70237a63-c045-4e12-9b4e-0a964894fe86	OPTIONS 	https://www.google.com 	/
+05/04/2023	20:08:12	0c3d1790-b2ec-4e34-b68c-cdf25693e809	GET 	https://www.google.com 	/
+05/04/2023	20:08:27	63fad68e-84d3-4591-8e41-5a0c50f94d13	OPTIONS 	https://www.google.com 	/
+05/04/2023	20:08:27	c993771d-607a-4ad1-a777-59ef1aaefabc	GET 	https://www.google.com 	/
+05/04/2023	20:08:45	2bc95054-9920-41d0-95e3-f3f97630842f	OPTIONS 	https://www.google.com 	/
+05/04/2023	20:08:45	c411b48f-e1bd-43da-83d3-e2f3fedb04d1	GET 	https://www.google.com 	/
+05/04/2023	20:08:58	b44c316d-4250-4a37-9544-2939b86148cd	OPTIONS 	https://www.google.com 	/
+05/04/2023	20:08:58	897fb46f-6997-4a7d-9dd0-4107b5d78b2f	GET 	https://www.google.com 	/
+05/04/2023	20:09:15	43ccb42b-a517-4611-8f80-ff223376abbe	OPTIONS 	https://www.google.com 	/
+05/04/2023	20:09:15	ba1c82a6-4bf4-4c82-8ee3-3f9e9462a53c	GET 	https://www.google.com 	/
+05/04/2023	20:31:17	311f669e-cc34-4b1e-960f-b402cdfa114a	GET 	undefined 	/
+05/04/2023	20:31:36	d94439c7-db24-41cc-9338-cb5c39b044ff	GET 	undefined 	/
+05/04/2023	20:31:36	37cae52f-77d2-41dd-8c5c-deb5ebcdc3eb	GET 	undefined 	/css/style.css
+05/04/2023	20:31:38	0920bb16-e960-4c3e-afe5-aa9fc40f56bd	GET 	undefined 	/
+05/04/2023	20:31:38	b3e3bc4b-24a4-4127-9abf-d682dbd1a11f	GET 	undefined 	/css/style.css
+05/04/2023	20:34:59	c5109e4c-a9e5-43a4-8c02-369d4f04d1b1	GET 	undefined 	/
+05/04/2023	20:35:59	1c8d7756-c5ce-497a-8005-be61df9fcfc2	GET 	undefined 	/
+05/04/2023	20:37:45	926bb178-284a-4988-b3ea-dec7b8033dc1	GET 	undefined 	/
+05/04/2023	20:37:57	29fd3171-b54e-4a6f-ae8f-7ebe410c3e95	GET 	undefined 	/
+05/04/2023	20:37:57	5778a110-ee18-47ff-8852-14a32949b082	GET 	undefined 	/css/style.css
