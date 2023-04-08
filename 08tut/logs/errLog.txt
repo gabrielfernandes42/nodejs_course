@@ -1,0 +1,18 @@
+05/04/2023	20:35:59	bfeb8325-e2ad-4bc4-9127-cbe170af038c	GET 	undefined 	/
+05/04/2023	20:37:45	6cdb6d51-5151-4f39-ae05-e241b976544d	Error: Not allowed by CORS 
+08/04/2023	14:38:59	a65c9756-84fc-4f89-a18f-338d4567d02e	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\subdir\imagens.html' 
+08/04/2023	15:02:25	af5ec9b6-2cc9-4260-9583-0e7f4504a0ac	ReferenceError: __dianame is not defined 
+08/04/2023	15:04:14	4650fdb6-1360-480c-a97c-2255fa90e5be	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\gallery\images-mobile.html' 
+08/04/2023	15:04:15	46f14dba-5416-4ff9-9a66-e0ebce426c33	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\gallery\images-mobile.html' 
+08/04/2023	15:05:48	c75dfdb3-9074-48c1-8c23-7f1496463c77	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\gallery\images.html' 
+08/04/2023	15:07:00	98262213-f681-40c9-955f-e4afec08c86d	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\gallery\images.html' 
+08/04/2023	15:07:13	6042e300-ad91-4fbd-962d-f95895a5f668	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\gallery\images.html' 
+08/04/2023	15:07:19	9659b413-10a9-4163-9a44-afcfbc3dfd85	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\subdir\images.html' 
+08/04/2023	15:07:31	1bda9e6d-e7e2-43d4-b813-dae1ed0e4699	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\subdir\images.html' 
+08/04/2023	15:08:04	fbbe6ce0-fd79-4d5c-9cfa-0a1d558e38d9	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\gallery\images.html' 
+08/04/2023	15:09:15	b7aa5bb2-5240-4d35-9656-52e6e4ca0b56	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\gallery\images.html' 
+08/04/2023	15:09:15	d6e65572-92b1-43c9-aa13-b5e34a645980	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\gallery\images.html' 
+08/04/2023	15:09:52	ce86fac5-8a65-4a25-b156-bf165301e3c7	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\gallery\images.html' 
+08/04/2023	15:10:02	ee3fdbb6-938e-462f-9ced-28f66a97825e	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\gallery\images.html' 
+08/04/2023	15:10:02	049ddf79-7f5c-48ad-91bb-7f70d3ca84f3	Error: ENOENT: no such file or directory, stat 'D:\Documentos\Projetos\nodejs_course\08tut\views\gallery\images.html' 
+08/04/2023	16:36:11	055845f7-0ca6-4a52-87f4-e5e0ffd39306	SyntaxError: Unexpected token f in JSON at position 11 
