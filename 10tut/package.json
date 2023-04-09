@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "date-fns": "^2.29.3",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "name": "05tut",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon server"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
