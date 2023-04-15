@@ -52,3 +52,8 @@
 05/04/2023	20:37:45	926bb178-284a-4988-b3ea-dec7b8033dc1	GET 	undefined 	/
 05/04/2023	20:37:57	29fd3171-b54e-4a6f-ae8f-7ebe410c3e95	GET 	undefined 	/
 05/04/2023	20:37:57	5778a110-ee18-47ff-8852-14a32949b082	GET 	undefined 	/css/style.css
+08/04/2023	13:47:46	8d34df34-02c3-4be4-9ab8-298238b965bd	GET 	undefined 	/
+08/04/2023	13:47:46	bc7f98f9-f78e-4071-868f-6bec189ad24c	GET 	undefined 	/css/style.css
+08/04/2023	13:47:46	e70a7a23-df90-4ffd-bf74-3072026cfbd0	GET 	undefined 	/favicon.ico
+08/04/2023	13:48:59	e1038aab-311b-4e79-a3d1-95092980349c	GET 	undefined 	/
+08/04/2023	13:48:59	64447e40-eff3-4b3b-8bd9-237a5ed1f9b1	GET 	undefined 	/css/style.css

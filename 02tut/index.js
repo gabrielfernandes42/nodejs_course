@@ -32,24 +32,6 @@ const fileops = async () => {
 
 fileops();
 
-// fs.writeFile(
-//   path.join(__dirname, "files", "criandoArquivo.txt"),
-//   "Novo arquivo criado atráves do writeFile",
-//   (err) => {
-//     if (err) throw err;
-//     console.log("Write complete");
-
-//     fs.appendFile(
-//       path.join(__dirname, "files", "appendFile.txt"),
-//       "mudando o testo",
-//       (err) => {
-//         if (err) throw err;
-//         console.log("Append complete");
-//       }
-//     );
-//   }
-// );
-
 //exist on uncaught errors
 process.on("uncaughtException", (err) => {
   console.error(`There was an uncaught error: ${err}`);
